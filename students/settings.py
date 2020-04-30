@@ -39,7 +39,7 @@ LINE_CHANNEL_ACCESS_TOKEN ='2XSp90FST0cq/h9hlQ6veZYBWruQh+zPeWyInsiH/d6uLluMy4j5
 # 必須放上自己的Channel Secret
 LINE_CHANNEL_SECRET='2badf497d33f1218cdeb81886e9898da'
 
-'
+
 
 # SECURITY WARNING: don't run with debug turned on in production!
 ALLOWED_HOSTS = ['*']
